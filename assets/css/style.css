@@ -1,16 +1,7 @@
 .wrapper {
   display: flex;
   width: 100%;
-  align-items: stretch;
-}
-
-#sidenav {
-  background-color: orangered;
-}
-
-#navcard {
-  margin-top: 33%;
-  background-color: orangered;
+  /* align-items: stretch; */
 }
 
 #navlinks {
